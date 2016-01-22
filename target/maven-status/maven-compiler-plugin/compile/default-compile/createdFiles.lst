@@ -1,0 +1,5 @@
+myudfs\ConvertToMap.class
+myudfs\MapToBag.class
+myudfs\Sanitize.class
+myudfs\XMLToJson.class
+myudfs\TestUDF.class
